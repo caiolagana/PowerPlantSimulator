@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFA108CD-8705-4CFF-BA18-334DA670BDFF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UHESSimao</RootNamespace>
+    <AssemblyName>UHESSimao</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Equipamentos\Barra.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\Barra.Designer.cs">
+      <DependentUpon>Barra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Const.cs" />
+    <Compile Include="Equipamentos\Disjuntor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\Disjuntor.Designer.cs">
+      <DependentUpon>Disjuntor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\Equipamento.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\Equipamento.Designer.cs">
+      <DependentUpon>Equipamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fluxo.cs" />
+    <Compile Include="FluxoLogico.cs" />
+    <Compile Include="Equipamentos\FonteDeTensao.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\FonteDeTensao.Designer.cs">
+      <DependentUpon>FonteDeTensao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogs.Designer.cs">
+      <DependentUpon>FormLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UG4\FormPopUp_UG4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UG4\FormPopUp_UG4.Designer.cs">
+      <DependentUpon>FormPopUp_UG4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUGs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUGs.Designer.cs">
+      <DependentUpon>FormUGs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Niveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Niveis.Designer.cs">
+      <DependentUpon>Form_Niveis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Vao_03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Vao_03.Designer.cs">
+      <DependentUpon>Form_Vao_03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GPM.cs" />
+    <Compile Include="Equipamentos\LED.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\LED.Designer.cs">
+      <DependentUpon>LED.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\Mostrador.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\Mostrador.Designer.cs">
+      <DependentUpon>Mostrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UG4\Form_Parada_UG4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UG4\Form_Parada_UG4.Designer.cs">
+      <DependentUpon>Form_Parada_UG4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UG4\Form_Partida_UG4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UG4\Form_Partida_UG4.Designer.cs">
+      <DependentUpon>Form_Partida_UG4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\PontoVazado.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\PontoVazado.Designer.cs">
+      <DependentUpon>PontoVazado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\PortaAND.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\PortaAND.Designer.cs">
+      <DependentUpon>PortaAND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\PortaLogica.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\PortaLogica.Designer.cs">
+      <DependentUpon>PortaLogica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\PortaNOT.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\PortaNOT.Designer.cs">
+      <DependentUpon>PortaNOT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\PortaOR.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\PortaOR.Designer.cs">
+      <DependentUpon>PortaOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos\Botao.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Equipamentos\Botao.Designer.cs">
+      <DependentUpon>Botao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vars.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogs.resx">
+      <DependentUpon>FormLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UG4\FormPopUp_UG4.resx">
+      <DependentUpon>FormPopUp_UG4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUGs.resx">
+      <DependentUpon>FormUGs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Niveis.resx">
+      <DependentUpon>Form_Niveis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UG4\Form_Parada_UG4.resx">
+      <DependentUpon>Form_Parada_UG4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UG4\Form_Partida_UG4.resx">
+      <DependentUpon>Form_Partida_UG4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Vao_03.resx">
+      <DependentUpon>Form_Vao_03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ_ABE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ_FEC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ_SINC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_ABE_BAIXO_VET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_ABE_CIMA_VET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_ABE_DIR_HOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_ABE_ESQ_HOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_FEC_BAIXO_VET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_FEC_CIMA_VET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_FEC_DIR_HOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEC_FEC_ESQ_HOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\and.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\or.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BT_Loz_Preto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BT_Loz_Verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_ON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I_Cinza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I_Verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I_Vermelho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\O_Cinza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\POPUP_CMD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UG1\" />
+    <Folder Include="UG2\" />
+    <Folder Include="UG3\" />
+    <Folder Include="UG5\" />
+    <Folder Include="UG6\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DisjuntorLogicoAberto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DisjuntorLogicoFechado.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,135 @@
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+Z:\ITEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csprojAssemblyReference.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHESSimao\UHESSimao_v1\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\bin\Debug\UHESSimao.exe.config
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\bin\Debug\UHESSimao.exe
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\bin\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.exe
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao_v20220402_1\UHESSimao\obj\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESSimao\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Niveis.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+D:\12-São Simão\P&D_2022\TEC\SPIC BRASIL\P&D_Sao_Simao\Desenvolvimento\Eid\UHE_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Niveis.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+E:\Eid\PROJETOS AQS\12-SPIC São Simão\4-P&D 2022\UHESS_SS_CAIO\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe.config
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\bin\Debug\UHESSimao.exe
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\bin\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form1.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormLogs.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormPopUp_UG4.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.FormUGs.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Niveis.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Parada_04.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Partida_04.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Form_Vao_03.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.Properties.Resources.resources
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.GenerateResource.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.exe
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.pdb
+C:\Users\Caio\Documents\Visual Studio 2017\Projects\UHESSimao\UHESSimao\obj\Debug\UHESSimao.csprojAssemblyReference.cache
